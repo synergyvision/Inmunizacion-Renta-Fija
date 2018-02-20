@@ -1,13 +1,13 @@
-# Inmunización de Carteras de Renta Fija
+# Inmunización de Carteras de Renta
 Synergy Vision  
 `r Sys.Date()`  
 <script src="https://cdn.datacamp.com/datacamp-light-latest.min.js"></script>
 
 --- 
-title: "Inmunización de Carteras de Renta Fija"
+title: "Inmunización de Carteras de Renta"
 subtitle: "Ciencia de los Datos Financieros"
 author: "Synergy Vision"
-date: "2018-02-19"
+date: "2018-02-20"
 knit: "bookdown::render_book"
 documentclass: krantz
 bibliography: [book.bib, packages.bib]
@@ -20,9 +20,9 @@ fontsize: 12pt
 monofontoptions: "Scale=0.8"
 keep_md: yes
 site: bookdown::bookdown_site
-description: "Introducción a Probabilidad y Estadística Matemática en R con aplicaciones en Finanzas."
-url: 'http\://synergy.vision/Inmunizacion-Renta-Fija/'
-github-repo: synergyvision/Inmunizacion-Renta-Fija/
+description: ""
+url: 'http\://synergy.vision/Ingenieria-Financiera/'
+github-repo: synergyvision/Ingenieria-Financiera/
 cover-image: images/cover.png
 ---
 
